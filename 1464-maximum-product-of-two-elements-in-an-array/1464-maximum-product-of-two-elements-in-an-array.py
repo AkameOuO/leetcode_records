@@ -1,5 +1,3 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        nums = list(map(lambda x:~x+2,nums))
-        heapify(nums)
-        return heappop(nums) * heappop(nums)
+        return (heapify(nums:=list(map(lambda x:~x+2,nums))),heappop(nums) * heappop(nums))[1]
