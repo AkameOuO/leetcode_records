@@ -1,13 +1,13 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        s.sort(reverse=True)
-        g.sort(reverse=True)
+        heapify(s)
+        heapify(g)
         r = 0
         while s and g:
-            a,b = g.pop(),s.pop()
+            a,b = heappop(g),heappop(s)
             
             while s and b < a:
-                b = s.pop()
+                b = heappop(s)
             r += b >= a
         return r
         
