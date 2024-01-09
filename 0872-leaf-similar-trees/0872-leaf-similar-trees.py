@@ -9,8 +9,6 @@ class Solution:
         def getLeaves(root):
             if not root:
                 return []
-            if not root.left and not root.right:
-                return [root.val]
-            else:
-                return getLeaves(root.left) + getLeaves(root.right)
+            
+            return (getLeaves(root.left) + getLeaves(root.right)) or [root.val]
         return getLeaves(root1) == getLeaves(root2)
