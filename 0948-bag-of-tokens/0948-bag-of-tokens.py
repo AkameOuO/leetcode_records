@@ -13,4 +13,4 @@ class Solution:
                 power -= deq.popleft()
                 s += 1
             res = max(res,s)
-        return max(res,0)
+        return res
