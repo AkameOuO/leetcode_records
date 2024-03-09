@@ -1,13 +1,12 @@
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        nums1.reverse()
-        nums2.reverse()
-        while nums1 and nums2:
-            if nums1[-1] == nums2[-1]:
-                return nums1[-1]
+        i = j = 0
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] == nums2[j]:
+                return nums1[i]
             
-            if nums1[-1] < nums2[-1]:
-                nums1.pop()
+            if nums1[i] < nums2[j]:
+                i += 1
             else:
-                nums2.pop()
+                j += 1
         return -1
