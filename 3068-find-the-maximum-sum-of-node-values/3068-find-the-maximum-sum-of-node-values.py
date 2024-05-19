@@ -4,6 +4,6 @@ class Solution:
         res = sum(nums)
         for i in range(1,len(nums),2):
             j = i-1
-            if (nums[i]^k)-nums[i] + (nums[j]^k)-nums[j] >= 0:
+            if (nums[i]^k)-nums[i] + (nums[j]^k)-nums[j] > 0:
                 res += (nums[i]^k)-nums[i] + (nums[j]^k)-nums[j]
         return res
