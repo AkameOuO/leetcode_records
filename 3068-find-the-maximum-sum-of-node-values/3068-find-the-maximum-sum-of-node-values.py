@@ -6,4 +6,6 @@ class Solution:
             j = i-1
             if (nums[i]^k)-nums[i] + (nums[j]^k)-nums[j] > 0:
                 res += (nums[i]^k)-nums[i] + (nums[j]^k)-nums[j]
+            else:
+                break
         return res
