@@ -20,4 +20,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/AkameOuO/leetcode_records/tree/master/3447-clear-digits) |
+## Array
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
