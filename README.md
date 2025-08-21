@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 | [3447-clear-digits](https://github.com/AkameOuO/leetcode_records/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
