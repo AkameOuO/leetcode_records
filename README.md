@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkameOuO/leetcode_records/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 ## Hash Table
 |  |
@@ -34,9 +35,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkameOuO/leetcode_records/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkameOuO/leetcode_records/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 ## Matrix
 |  |
