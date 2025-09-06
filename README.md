@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AkameOuO/leetcode_records/tree/master/0146-lru-cache) |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -70,4 +71,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AkameOuO/leetcode_records/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AkameOuO/leetcode_records/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AkameOuO/leetcode_records/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AkameOuO/leetcode_records/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
