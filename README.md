@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/AkameOuO/leetcode_records/tree/master/0165-compare-version-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AkameOuO/leetcode_records/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3447-clear-digits](https://github.com/AkameOuO/leetcode_records/tree/master/3447-clear-digits) |
 ## Prefix Sum
@@ -83,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkameOuO/leetcode_records/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/AkameOuO/leetcode_records/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
