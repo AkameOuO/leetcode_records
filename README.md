@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkameOuO/leetcode_records/tree/master/0940-fruit-into-baskets) |
+| [1018-largest-perimeter-triangle](https://github.com/AkameOuO/leetcode_records/tree/master/1018-largest-perimeter-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkameOuO/leetcode_records/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkameOuO/leetcode_records/tree/master/1917-maximum-average-pass-ratio) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/AkameOuO/leetcode_records/tree/master/1018-largest-perimeter-triangle) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkameOuO/leetcode_records/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
@@ -88,4 +90,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/AkameOuO/leetcode_records/tree/master/0165-compare-version-numbers) |
+## Math
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/AkameOuO/leetcode_records/tree/master/1018-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/AkameOuO/leetcode_records/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
