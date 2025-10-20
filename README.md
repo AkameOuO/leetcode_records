@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0165-compare-version-numbers](https://github.com/AkameOuO/leetcode_records/tree/master/0165-compare-version-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AkameOuO/leetcode_records/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkameOuO/leetcode_records/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/AkameOuO/leetcode_records/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkameOuO/leetcode_records/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/AkameOuO/leetcode_records/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkameOuO/leetcode_records/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AkameOuO/leetcode_records/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkameOuO/leetcode_records/tree/master/1917-maximum-average-pass-ratio) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkameOuO/leetcode_records/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
